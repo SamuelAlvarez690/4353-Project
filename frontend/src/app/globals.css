@@ -134,6 +134,7 @@ body{
   background: #9ca3af; /* gray-400 */
 }
 
+/*
 .cursor-custom {
   cursor: url('/cursor/cursor.png') 10 10, auto;
 }
@@ -153,7 +154,7 @@ button, a, input, select, textarea {
 button, a {
   cursor: url('/cursor/cursor.png') 16 16, pointer !important;
 }
-
+*/
 
 :root {
   --radius: 0.625rem;
